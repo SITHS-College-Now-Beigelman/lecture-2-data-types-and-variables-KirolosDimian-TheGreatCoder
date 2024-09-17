@@ -46,3 +46,17 @@ int main () // Creating the variables
     
     return 0;
 }
+
+/*
+int:42
+float:83.92
+double:2.34
+char:D
+bool:0
+string:Luigi
+100 Inch(es) = 8 feet (foot) and 4inch(es)
+D > R = 0
+2 + 3.5 = 5.5
+6 / 4 + 3.9 = 4.9
+5.4 * 2 - (13.6 + 18 / 2) = -11.8
+*/
